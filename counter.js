@@ -1,5 +1,4 @@
-// given an array of integers, return the most frequest integer
-
+// given an array of integers, return the most frequent integer
 const counters = (data) => {
     
 }

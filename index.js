@@ -5,4 +5,4 @@ const evenToOdd = (evens) => {
 }
 
 // run it
-evenToOdd([])
+console.log(evenToOdd([2, 4, 6, 8, 10]))
